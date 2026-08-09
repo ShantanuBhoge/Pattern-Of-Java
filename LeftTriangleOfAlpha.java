@@ -22,3 +22,11 @@ class LeftTriangleOfAlpha
         }
 		}
 }
+
+
+op:
+1  2  3  4  5  
+6  7  8  9  a 
+10 11 12 b  c 
+13 14 d  e  f 
+15 g  h  i  j 

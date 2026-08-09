@@ -22,3 +22,12 @@ class LeftTriangleOfNum
         }
 		}
 }
+
+
+op:
+
+a b c d e 
+f g h i 1 
+j k l 2 3 
+m n 4 5 6 
+o 7 8 9 10 

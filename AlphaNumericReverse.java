@@ -21,3 +21,13 @@
         }
     }
 }
+
+
+## Sample Output
+
+For an input of `n = 4`:
+
+8 7 6 5 
+a b c d 
+4 3 2 1 
+e f g h 

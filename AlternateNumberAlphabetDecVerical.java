@@ -24,3 +24,12 @@ class AlternateNumberAlphabetDec {
         }
     }
 }
+
+
+## Expected Console Output
+
+### For n = 4
+1 a 5 e 
+2 b 6 f 
+3 c 7 g 
+4 d 8 h

@@ -23,3 +23,12 @@ class AlternateOfAlphaNum {
         }
     }
 }
+
+
+## Expected Console Output
+
+### For n = 4
+8 a 4 e 
+7 b 3 f 
+6 c 2 g 
+5 d 1 h 

@@ -23,3 +23,14 @@ class DiagonalWithSingleBorder
          
 	}
 }
+
+
+output:
+
+* * * * * * * 
+* *       * * 
+* * *     * * 
+* *   *   * * 
+* *     * * * 
+* *       * * 
+* * * * * * * 

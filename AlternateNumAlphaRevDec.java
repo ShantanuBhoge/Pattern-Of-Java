@@ -19,3 +19,13 @@ class AlternateNumAlphaRevDec {
         }
     }
 }
+
+
+## Sample Output
+
+For an input of `n = 4`:
+
+8 h 7 g 
+6 f 5 e 
+4 d 3 c 
+2 b 1 a 

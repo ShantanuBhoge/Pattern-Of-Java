@@ -24,3 +24,13 @@ class AlternateOfAlphaNumericReverse {
         }
     }
 }
+
+
+
+## Expected Console Output
+
+### For n = 4
+1 h 5 d 
+2 g 6 c 
+3 f 7 b 
+4 e 8 a 

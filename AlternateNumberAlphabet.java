@@ -21,3 +21,13 @@ class AlternateNumberAlphabet {
         }
     }
 }
+
+
+
+#output
+
+### For n = 4
+1 2 3 4 
+h g f e 
+5 6 7 8 
+d c b a
